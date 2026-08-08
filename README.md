@@ -43,7 +43,6 @@ Forked from <a href="https://github.com/EchoMusicApp/Echo-Music">Echo Music</a> 
 
 👉 **[Get the APK from Releases →](../../releases)**
 - The **universal** APK works on every Android device.
-- Tip: track new versions with [Obtainium](https://github.com/ImranR98/Obtainium).
 
 ## ☕ Support the project
 
