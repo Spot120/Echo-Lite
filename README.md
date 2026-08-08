@@ -40,8 +40,8 @@ Forked from <a href="https://github.com/EchoMusicApp/Echo-Music">Echo Music</a> 
 Echo Lite is made by one person. My goal is just **$30/month**.
 If it earned you joy, $1/month keeps it alive:
 
-- ☕ [Buy Me a Coffee](https://buymeacoffee.com/YOUR_BMC_USERNAME)
-- 🇮🇳 UPI (India): `YOUR_UPI_ID` — or scan the QR inside the app (About screen)
+- ☕ [Buy Me a Coffee](https://buymeacoffee.com/boyspot15x)
+- or scan the QR inside the app (About section)
 
 ## 🙏 Credits & License
 
