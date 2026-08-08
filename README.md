@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Screenshots/logoi.png" width="140" alt="Echo Lite logo">
+  <img src="Screenshots/logoi.png" width="280" alt="Echo Lite logo">
 </p>
 
 <h1 align="center">Echo Lite</h1>
