@@ -25,7 +25,7 @@ Forked from <a href="https://github.com/EchoMusicApp/Echo-Music">Echo Music</a> 
 -  In order to make "one-tap MP3 export" work you have to go to the setting.
 -  "Storage" section and Click "Export Folder" choose your Desirable Folder where you can export your songs
 -  Now come back to the setting and go to the "Player and Audio" and toggle on "Export as Mp3"
--  Now go the Downloaded songs and you will see a Export Icon Near Search icon on the top left.
+-  Now go the Downloaded songs and you will see a Export Icon Near Search icon on the top right.
 
 ## 🙈 You control suggestions
 - if you hate suggestion like Trending Community playlists and so on.
