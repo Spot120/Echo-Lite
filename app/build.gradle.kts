@@ -30,7 +30,7 @@ android {
 
 
     defaultConfig {
-        applicationId = "iad1tya.echo.music"
+        applicationId = "com.spot.echolite"
         minSdk = 26
         targetSdk = 36
         versionCode = 529
