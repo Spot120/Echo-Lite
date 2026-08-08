@@ -346,6 +346,6 @@ dependencies {
     implementation(libs.androidx.core.splashscreen)
     implementation(libs.ffmpeg.kit.audio)
     // ZXing core for QR code generation
-    implementation("com.google.zxing:core:3.5.1")
+    implementation("com.google.zxing:core:3.5.4")
 
 }
