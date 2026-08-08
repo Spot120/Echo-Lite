@@ -93,6 +93,8 @@ highlightKey: String? = null) {
     val backupDesc = stringResource(R.string.setting_desc_backup)
     val systemUpdateDesc = stringResource(R.string.setting_desc_update)
     val aboutDesc = stringResource(R.string.setting_desc_about)
+    val featuresText = "Features"
+    val featuresDesc = "View Echo Lite capabilities"
 
     val scrollState = rememberScrollState()
     Column(
@@ -307,6 +309,17 @@ highlightKey: String? = null) {
                         )
                     )
                 }
+            }
+            if (featuresText.lowercase().contains(searchLower) || featuresDesc.lowercase().contains(searchLower)) {
+                add(
+                    Material3SettingsItem(
+                        isHighlighted = (highlightKey == featuresText),
+                        icon = painterResource(R.drawable.star),
+                        title = { Text(featuresText) },
+                        description = { Text(featuresDesc) },
+                        onClick = { navController.navigate("settings/about") }
+                    )
+                )
             }
             if (aboutText.lowercase().contains(searchLower) || aboutDesc.lowercase().contains(searchLower)) {
                 add(
