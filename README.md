@@ -11,7 +11,7 @@ Forked from <a href="https://github.com/EchoMusicApp/Echo-Music">Echo Music</a> 
 
 | Home | Player | MP3 Export |
 |:---:|:---:|:---:|
-| ![home](Screenshots/home.png) | ![player](Screenshots/player.png) | ![export](Screenshots/export.png) |
+| ![home](Screenshots/home.png) | ![player](Screenshots/player.png) | ![export](Screenshots/exporti.png) |
 
 ## ✨ What makes Echo Lite different
 
