@@ -46,8 +46,8 @@ Forked from <a href="https://github.com/EchoMusicApp/Echo-Music">Echo Music</a> 
 
 ## ☕ Support the project
 
-Echo Lite is made by one person. My goal is just **$30/month**.
-If it earned you joy, $1/month keeps it alive:
+Echo Lite features is made by one person.
+If it earned you joy, am blessed thank you.
 
 - ☕ [Buy Me a Coffee](https://buymeacoffee.com/boyspot15x)
 - or scan the QR inside the app "About"
